@@ -18,7 +18,7 @@ function resetCajaDerecha(){
   cajaDerecha.value = '';
   infoDerecha.style.visibility = 'visible';
   infoDerecha2.style.visibility = 'visible';
-  cajaDerecha.style.backgroundImage = url("../assets/Muñeco.png");
+  cajaDerecha.style.backgroundImage = 'url("../assets/Muñeco.png")';
   desbloquearBoton.style.visibility = 'hidden';
 }
 
