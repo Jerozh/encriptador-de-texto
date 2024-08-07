@@ -94,6 +94,7 @@ function botonCopiar(){
   } catch (err) {
     console.error('Falló la operación: ', err);
   }
+cajaDerecha.style.backgroundImage = 'url("../assets/Muñeco.png")';
 }
 
 /*valores para hacer la encriptacion
