@@ -37,9 +37,7 @@ if(cajaIzquierda.value == ''){
     text: 'No hay texto para encriptar',
     icon: 'error',
     confirmButtonText: 'Aceptar'})
-    resetCajaDerecha();
-    break;
-  }
+    }
 else if (mayusYAcentos(cajaIzquierda.value) == false){
 var encriptarr = cajaIzquierda.value.replace(/e/g, 'enter').replace(/a/g, 'xjz').replace(/i/g, 'imes').replace(/o/g, 'ober').replace(/u/g, 'ufat');
 var encriptarr2 = encriptarr.replace(/xjz/g, 'ai');
@@ -54,8 +52,7 @@ else{
     icon: 'warning',
     confirmButtonText: 'Aceptar'})
   limpiarCaja();
-  resetCajaDerecha();
-  break;
+   
  }
 }
 function botonDesencriptar(){
@@ -66,7 +63,7 @@ if(cajaIzquierda.value == ''){
     icon: 'error',
     confirmButtonText: 'Aceptar'
   })  
-  resetCajaDerecha();
+  
   }
 else if(mayusYAcentos(cajaIzquierda.value) == false){
 var desencriptar = cajaIzquierda.value.replace(/enter/g, 'e').replace(/ai/g, 'xjz').replace(/imes/g, 'i').replace(/ober/g, 'o').replace(/ufat/g, 'u');
@@ -82,8 +79,7 @@ else{
     icon: 'warning',
     confirmButtonText: 'Aceptar'})
   limpiarCaja();
-  resetCajaDerecha();
- }
+   }
 }
 
 function botonCopiar(){
