@@ -16,7 +16,7 @@ function quitarVariosYBotonCopiar(){
 //funcion que limpia la caja de texto derecha, y la vuelve a cero
 function resetCajaDerecha(){
   cajaDerecha.value = '';
-  imagen =a 'url("https://github.com/Jerozh/encriptador-de-texto/blob/main/assets/Mu%C3%B1eco.png")';
+  imagen = 'url("https://github.com/Jerozh/encriptador-de-texto/blob/main/assets/Mu%C3%B1eco.png")';
   //cajaDerecha.style.backgroundImage = 'url("https://github.com/Jerozh/encriptador-de-texto/blob/main/assets/Mu%C3%B1eco.png")';
   infoDerecha.style.visibility = 'visible';
   infoDerecha2.style.visibility = 'visible';
