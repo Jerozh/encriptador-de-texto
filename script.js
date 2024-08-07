@@ -90,7 +90,7 @@ function botonCopiar(){
       text: 'Copia realizada',
       icon: 'success',
       confirmButtonText: 'Aceptar'})
-  resetCajaDerecha();  
+   
   } catch (err) {
     console.error('Falló la operación: ', err);
   }
