@@ -4,7 +4,7 @@ var cajaIzquierda = document.getElementById('ingresee');
 var desbloquearBoton = document.getElementById('copiar');
 var infoDerecha = document.querySelector('.sector__derecho__error');
 var infoDerecha2 = document.querySelector('.sector__derecho__indicacion');
-
+var imagen = document.querySelector('caja-texto2.style.backgroundImage')
 //funcion que saca la imagen, los parrafos inferiores y muestra el boton copiar
 function quitarVariosYBotonCopiar(){
   infoDerecha.style.visibility = 'hidden';
@@ -16,9 +16,10 @@ function quitarVariosYBotonCopiar(){
 //funcion que limpia la caja de texto derecha, y la vuelve a cero
 function resetCajaDerecha(){
   cajaDerecha.value = '';
+  imagen =a 'url("https://github.com/Jerozh/encriptador-de-texto/blob/main/assets/Mu%C3%B1eco.png")';
+  //cajaDerecha.style.backgroundImage = 'url("https://github.com/Jerozh/encriptador-de-texto/blob/main/assets/Mu%C3%B1eco.png")';
   infoDerecha.style.visibility = 'visible';
   infoDerecha2.style.visibility = 'visible';
-  cajaDerecha.style.backgroundImage = 'url("https://github.com/Jerozh/encriptador-de-texto/blob/main/assets/Mu%C3%B1eco.png")';
   desbloquearBoton.style.visibility = 'hidden';
 }
 
