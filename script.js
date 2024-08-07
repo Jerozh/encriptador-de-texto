@@ -45,6 +45,7 @@ var encriptarr2 = encriptarr.replace(/xjz/g, 'ai');
 document.getElementById("caja-texto2").value = encriptarr2;
 quitarVariosYBotonCopiar()
 limpiarCaja();
+resetCajaDerecha();
 }
 else{
   swal.fire({
@@ -72,6 +73,7 @@ var desencriptar2 = desencriptar.replace(/xjz/g, 'a');
 document.getElementById("caja-texto2").value = desencriptar2;
 quitarVariosYBotonCopiar()
 limpiarCaja();
+resetCajaDerecha();
 }
 else{
   swal.fire({
