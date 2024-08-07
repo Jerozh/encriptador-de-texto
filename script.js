@@ -63,8 +63,7 @@ if(cajaIzquierda.value == ''){
     icon: 'error',
     confirmButtonText: 'Aceptar'
   })  
-  
-  }
+}
 else if(mayusYAcentos(cajaIzquierda.value) == false){
 var desencriptar = cajaIzquierda.value.replace(/enter/g, 'e').replace(/ai/g, 'xjz').replace(/imes/g, 'i').replace(/ober/g, 'o').replace(/ufat/g, 'u');
 var desencriptar2 = desencriptar.replace(/xjz/g, 'a');
