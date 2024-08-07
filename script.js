@@ -52,12 +52,11 @@ else{
     icon: 'warning',
     confirmButtonText: 'Aceptar'})
   limpiarCaja();
-   
- }
+}
 }
 function botonDesencriptar(){
 if(cajaIzquierda.value == ''){
-  swal.fire({
+    swal.fire({
     title: 'Error',
     text: 'No hay texto para desencriptar',
     icon: 'error',
@@ -72,13 +71,13 @@ quitarVariosYBotonCopiar()
 limpiarCaja();
 }
 else{
-  swal.fire({
+    swal.fire({
     title: 'Error',
     text: 'Recorda que no podes ingresar palabras que contengan mayusculas, ni acentos',
     icon: 'warning',
     confirmButtonText: 'Aceptar'})
-  limpiarCaja();
-   }
+ limpiarCaja();
+}
 }
 
 function botonCopiar(){
