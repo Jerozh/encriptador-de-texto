@@ -18,7 +18,7 @@ function resetCajaDerecha(){
   cajaDerecha.value = '';
   infoDerecha.style.visibility = 'visible';
   infoDerecha2.style.visibility = 'visible';
-  cajaDerecha.style.backgroundImage = 'url(../assets/Muñeco.png)';
+  cajaDerecha.style.backgroundImage = 'url("../assets/Muñeco.png")';
   desbloquearBoton.style.visibility = 'hidden';
 }
 
@@ -32,12 +32,12 @@ function mayusYAcentos(text) {
 
 function botonEncriptar(){
 if(cajaIzquierda.value == ''){
+  resetCajaDerecha();  
   swal.fire({
     title: 'Error',
     text: 'No hay texto para encriptar',
     icon: 'error',
     confirmButtonText: 'Aceptar'})
-    resetCajaDerecha();
   }
 else if (mayusYAcentos(cajaIzquierda.value) == false){
 var encriptarr = cajaIzquierda.value.replace(/e/g, 'enter').replace(/a/g, 'xjz').replace(/i/g, 'imes').replace(/o/g, 'ober').replace(/u/g, 'ufat');
@@ -45,9 +45,9 @@ var encriptarr2 = encriptarr.replace(/xjz/g, 'ai');
 document.getElementById("caja-texto2").value = encriptarr2;
 quitarVariosYBotonCopiar()
 limpiarCaja();
-resetCajaDerecha();
 }
 else{
+  resetCajaDerecha();
   swal.fire({
     title: 'Error',
     text: 'Recorda que no podes ingresar palabras que contengan mayusculas, ni acentos',
@@ -59,13 +59,13 @@ else{
 }
 function botonDesencriptar(){
 if(cajaIzquierda.value == ''){
+  resetCajaDerecha();
   swal.fire({
     title: 'Error',
     text: 'No hay texto para desencriptar',
     icon: 'error',
     confirmButtonText: 'Aceptar'
-  })
-  resetCajaDerecha();  
+  })  
  }
 else if(mayusYAcentos(cajaIzquierda.value) == false){
 var desencriptar = cajaIzquierda.value.replace(/enter/g, 'e').replace(/ai/g, 'xjz').replace(/imes/g, 'i').replace(/ober/g, 'o').replace(/ufat/g, 'u');
@@ -73,7 +73,6 @@ var desencriptar2 = desencriptar.replace(/xjz/g, 'a');
 document.getElementById("caja-texto2").value = desencriptar2;
 quitarVariosYBotonCopiar()
 limpiarCaja();
-resetCajaDerecha();
 }
 else{
   swal.fire({
