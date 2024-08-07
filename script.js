@@ -32,12 +32,12 @@ function mayusYAcentos(text) {
 
 function botonEncriptar(){
 if(cajaIzquierda.value == ''){
-  resetCajaDerecha();  
-  swal.fire({
+     swal.fire({
     title: 'Error',
     text: 'No hay texto para encriptar',
     icon: 'error',
     confirmButtonText: 'Aceptar'})
+    resetCajaDerecha();
   }
 else if (mayusYAcentos(cajaIzquierda.value) == false){
 var encriptarr = cajaIzquierda.value.replace(/e/g, 'enter').replace(/a/g, 'xjz').replace(/i/g, 'imes').replace(/o/g, 'ober').replace(/u/g, 'ufat');
@@ -47,8 +47,7 @@ quitarVariosYBotonCopiar()
 limpiarCaja();
 }
 else{
-  resetCajaDerecha();
-  swal.fire({
+    swal.fire({
     title: 'Error',
     text: 'Recorda que no podes ingresar palabras que contengan mayusculas, ni acentos',
     icon: 'warning',
@@ -59,14 +58,14 @@ else{
 }
 function botonDesencriptar(){
 if(cajaIzquierda.value == ''){
-  resetCajaDerecha();
   swal.fire({
     title: 'Error',
     text: 'No hay texto para desencriptar',
     icon: 'error',
     confirmButtonText: 'Aceptar'
   })  
- }
+  resetCajaDerecha();
+  }
 else if(mayusYAcentos(cajaIzquierda.value) == false){
 var desencriptar = cajaIzquierda.value.replace(/enter/g, 'e').replace(/ai/g, 'xjz').replace(/imes/g, 'i').replace(/ober/g, 'o').replace(/ufat/g, 'u');
 var desencriptar2 = desencriptar.replace(/xjz/g, 'a');
