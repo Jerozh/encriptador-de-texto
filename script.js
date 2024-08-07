@@ -17,6 +17,8 @@ function quitarVariosYBotonCopiar(){
 function resetCajaDerecha(){
   cajaDerecha.value = '';
   cajaDerecha.style.backgroundImage = 'url("https://raw.githubusercontent.com/Jerozh/encriptador-de-texto/main/assets/Mu%C3%B1eco.png")';
+  cajaDerecha.style.position = 'center';
+  cajaDerecha.style.repeat = 'no-repeat';
   infoDerecha.style.visibility = 'visible';
   infoDerecha2.style.visibility = 'visible';
   desbloquearBoton.style.visibility = 'hidden';
