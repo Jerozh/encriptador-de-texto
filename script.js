@@ -18,8 +18,7 @@ function resetCajaDerecha(){
   cajaDerecha.value = '';
   infoDerecha.style.visibility = 'visible';
   infoDerecha2.style.visibility = 'visible';
-  cajaDerecha.style.backgroundImage = url("../assets/Muñeco.png");
-  //cajaDerecha.style.backgroundImage = 'url(../assets/Muñeco.png)';
+  cajaDerecha.style.backgroundImage = 'url("https://github.com/Jerozh/encriptador-de-texto/blob/main/assets/Mu%C3%B1eco.png")';
   desbloquearBoton.style.visibility = 'hidden';
 }
 
