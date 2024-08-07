@@ -15,7 +15,7 @@ function quitarVariosYBotonCopiar(){
 }
 //funcion que limpia la caja de texto derecha, y la vuelve a cero
 function resetCajaDerecha(){
-  cajaDerecha.value = '';
+  //cajaDerecha.value = '';
   infoDerecha.style.visibility = 'visible';
   infoDerecha2.style.visibility = 'visible';
   cajaDerecha.style.backgroundImage = 'url("../assets/Muñeco.png")';
