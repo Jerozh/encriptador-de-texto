@@ -18,7 +18,7 @@ function resetCajaDerecha(){
   cajaDerecha.value = '';
   infoDerecha.style.visibility = 'visible';
   infoDerecha2.style.visibility = 'visible';
-  cajaDerecha.style.backgroundImage = 'url("../assets/Muñeco.png")';
+  cajaDerecha.style.backgroundImage = 'url(../assets/Muñeco.png)';
   desbloquearBoton.style.visibility = 'hidden';
 }
 
@@ -90,11 +90,10 @@ function botonCopiar(){
       text: 'Copia realizada',
       icon: 'success',
       confirmButtonText: 'Aceptar'})
-   
+  resetCajaDerecha();  
   } catch (err) {
     console.error('Falló la operación: ', err);
   }
-cajaDerecha.style.backgroundImage = 'url("../assets/Muñeco.png")';
 }
 
 /*valores para hacer la encriptacion
