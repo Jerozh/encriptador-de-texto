@@ -32,12 +32,13 @@ function mayusYAcentos(text) {
 
 function botonEncriptar(){
 if(cajaIzquierda.value == ''){
-     swal.fire({
+    swal.fire({
     title: 'Error',
     text: 'No hay texto para encriptar',
     icon: 'error',
     confirmButtonText: 'Aceptar'})
     resetCajaDerecha();
+    break;
   }
 else if (mayusYAcentos(cajaIzquierda.value) == false){
 var encriptarr = cajaIzquierda.value.replace(/e/g, 'enter').replace(/a/g, 'xjz').replace(/i/g, 'imes').replace(/o/g, 'ober').replace(/u/g, 'ufat');
@@ -54,6 +55,7 @@ else{
     confirmButtonText: 'Aceptar'})
   limpiarCaja();
   resetCajaDerecha();
+  break;
  }
 }
 function botonDesencriptar(){
