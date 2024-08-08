@@ -24,7 +24,7 @@ Este proyecto se realizo en el marco del curso ONE (Oracle Next Educacation) de 
 El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento todavía no es el mas amplio para dar por terminado este código tanto de HTML como de CSS o JavaScript, estoy seguro que debe tener muchas cosas por corregir o mejorar.
 
 <h3 id="demostracion-de-funciones">Demostración de funciones:</h3>
-<!--![Texto alternativo](url)
+
 <img src="![demostracion](https://imgur.com/a/wmh9mB1)">
 
 <h3 id="acceso-al-proyecto">Acceso al proyecto:</h3>
