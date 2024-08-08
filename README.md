@@ -22,7 +22,7 @@ Este proyecto se realizo en el marco del curso ONE (Oracle Next Educacation) de 
 El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento todavía no es el mas amplio para dar por terminado este código tanto de HTML como de CSS o JavaScript, estoy seguro que debe tener muchas cosas por corregir o mejorar.
 
 <h4>Demostración de funciones:</h4>
-[<img src="![Encriptador-de-texto](https://github.com/user-attachments/assets/f6ef80e3-8a45-4159-96bb-9954b83d8a2e)">]
+<img src="![Encriptador-de-texto](https://github.com/user-attachments/assets/f6ef80e3-8a45-4159-96bb-9954b83d8a2e)">
 
 <h5>Acceso al proyecto:</h5>
 Este proyecto es de acceso público.
@@ -31,7 +31,7 @@ Este proyecto es de acceso público.
 En este proyecto se trabajó mayormente con el programa de Microsoft Visual Studio Core, en el cual se editó todo el código de HTML, CSS y JavaScript. Se utilizo GitBash para subir el proyecto a la plataforma de GitHub. En el código se utilizó tecnología SweetAlert 2 para crear unas alertas más atractivas. Se trabajo con Luri, la IA de Alura, ChatGpt y Leo IA del navegador Brave.
 
 <h7>Personas desarrolladoras del proyecto:</h7>
-<p align="center">[<img src="![yo](https://github.com/user-attachments/assets/54c6cf00-9366-4ebc-aaae-64502ceb4f7c)">]</p>
+<p align="center"><img src="![yo](https://github.com/user-attachments/assets/54c6cf00-9366-4ebc-aaae-64502ceb4f7c)"></p>
 Mi nombre es Jerónimo Herrera, soy de la ciudad de Catamarca-Argentina y desarrolle este encriptador de texto. Espero sea el primero de muchos proyectos.
 
 <h8>Referencias</h8>
