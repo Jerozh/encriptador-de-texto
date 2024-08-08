@@ -1,6 +1,6 @@
-<body background:f6f6f6>
- <body color:f5f5f5>
-  
+<body style="background-color: #f6f6f6;">
+<body style="color: #f5f5f5;">
+ 
 <h1 id="titulo" align="center">Encriptador de texto.</h1>
  <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
