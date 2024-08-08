@@ -5,8 +5,8 @@
  <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
-  <h3 id="indice"> 
-Índice:</h3>
+  
+##Índice:
 *	[Titulo](#titulo)
 * [insignia](#insignia)
 *	[Índice](#indice)
