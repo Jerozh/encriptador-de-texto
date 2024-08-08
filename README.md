@@ -31,13 +31,13 @@ Este proyecto es de acceso público.
 En este proyecto se trabajó mayormente con el programa de Microsoft Visual Studio Core, en el cual se editó todo el código de HTML, CSS y JavaScript. Se utilizo GitBash para subir el proyecto a la plataforma de GitHub. En el código se utilizó tecnología SweetAlert 2 para crear unas alertas más atractivas. Se trabajo con Luri, la IA de Alura, ChatGpt y Leo IA del navegador Brave.
 
 <h7>Personas desarrolladoras del proyecto:</h7>
-<p align="center"><img src="![yo](https://github.com/user-attachments/assets/54c6cf00-9366-4ebc-aaae-64502ceb4f7c)"></p>
+<img src="![yo](https://github.com/user-attachments/assets/54c6cf00-9366-4ebc-aaae-64502ceb4f7c)">
 Mi nombre es Jerónimo Herrera, soy de la ciudad de Catamarca-Argentina y desarrolle este encriptador de texto. Espero sea el primero de muchos proyectos.
 
 <h8>Referencias</h8>
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
 
-<h8>Conclusión:</h8>
+<h9>Conclusión:</h9>
 Para cerrar, fue un desafío de verdad llegar a terminar este proyecto, en el cual tuve que investigar mucho sobre funciones de CSS, de JavaScript, ver y rever los cursos de la plataforma Alura, integrar conceptos con la ayuda de las IA de Alura, ChatGpt y el navegador Brave.
 Me gustó mucho realizar esta actividad, lograr mi encriptador de texto, tengo mucho por aprender en el mundo de la programación, pero este fue un gran primer paso.
 Espero sea de utilidad el código, el encriptador.
