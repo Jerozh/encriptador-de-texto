@@ -12,24 +12,32 @@
 *	[Acceso al proyecto](#acceso-al-proyecto)
 *	[Tecnologías utilizadas](#tecnologias-utilizadas)
 *	[Personas desarrolladoras del proyecto](#personas-desarrolladoras)
+* [Referencias](#referencias)
 * [conclusion](#conclusion)
+
 <h2>Descripción del proyecto:</h2>
 Este proyecto se realizo en el marco del curso ONE (Oracle Next Educacation) de las empresas Oracle y Alura Latam, en el cual fue solicitado crear un encriptador de textos, este resultado es la unión de todos los conceptos vistos en el curso de formación, incluye lógica de programación, HTML, CSS y JavaScript, usando programas como Visual Studio Core, Git Bash y la plataforma GitHub.
 
-
-
-
-Estado del proyecto: 
+<h3>Estado del proyecto:</h3> 
 El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento todavía no es el mas amplio para dar por terminado este código tanto de HTML como de CSS o JavaScript, estoy seguro que debe tener muchas cosas por corregir o mejorar.
-Demostración de funciones:
+
+<h4>Demostración de funciones:</h4>
 ![Encriptador-de-texto](https://github.com/user-attachments/assets/f6ef80e3-8a45-4159-96bb-9954b83d8a2e)
-Acceso al proyecto:
+
+<h5>Acceso al proyecto:</h5>
 Este proyecto es de acceso público.
-Tecnologías utilizadas: 
+
+<h6>Tecnologías utilizadas:</h6> 
 En este proyecto se trabajó mayormente con el programa de Microsoft Visual Studio Core, en el cual se editó todo el código de HTML, CSS y JavaScript. Se utilizo GitBash para subir el proyecto a la plataforma de GitHub. En el código se utilizó tecnología SweetAlert 2 para crear unas alertas más atractivas. Se trabajo con Luri, la IA de Alura, ChatGpt y Leo IA del navegador Brave.
-Personas desarrolladoras del proyecto:
+
+<h7>Personas desarrolladoras del proyecto:</h7>
+<p align="center">![yo](https://github.com/user-attachments/assets/035b91ce-57ab-4b80-8aa7-cf65f1ab806b)</p>
 Mi nombre es Jerónimo Herrera, soy de la ciudad de Catamarca-Argentina y desarrolle este encriptador de texto. Espero sea el primero de muchos proyectos.
-Conclusión:
+
+<h8>Referencias</h8>
+https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+
+<h8>Conclusión:</h8>
 Para cerrar, fue un desafío de verdad llegar a terminar este proyecto, en el cual tuve que investigar mucho sobre funciones de CSS, de JavaScript, ver y rever los cursos de la plataforma Alura, integrar conceptos con la ayuda de las IA de Alura, ChatGpt y el navegador Brave.
 Me gustó mucho realizar esta actividad, lograr mi encriptador de texto, tengo mucho por aprender en el mundo de la programación, pero este fue un gran primer paso.
 Espero sea de utilidad el código, el encriptador.
