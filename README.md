@@ -25,7 +25,7 @@ El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento tod
 
 <h3 id="demostracion-de-funciones">Demostración de funciones:</h3>
 
-<img src="![https://imgur.com/a/wmh9mB1](https://imgur.com/Mqcj027)">
+<img src=![funcionamiento](https://imgur.com/Mqcj027)>
 
 <h3 id="acceso-al-proyecto">Acceso al proyecto:</h3>
 Este proyecto es de acceso público.
