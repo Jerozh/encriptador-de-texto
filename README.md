@@ -25,7 +25,7 @@ El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento tod
 
 <h3 id="demostracion-de-funciones">Demostración de funciones:</h3>
 
-<img src="![Encriptador-de-texto](https://github.com/user-attachments/assets/200b2d01-7240-423e-a339-5d7aeafcce0d)
+<img src="!(https://github.com/user-attachments/assets/200b2d01-7240-423e-a339-5d7aeafcce0d)
 ">
 
 <h3 id="acceso-al-proyecto">Acceso al proyecto:</h3>
