@@ -1,4 +1,6 @@
-<background:f6f6f6>
+<body background:f6f6f6>
+ <body color:f5f5f5>
+  
 <h1 id="titulo" align="center">Encriptador de texto.</h1>
  <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
@@ -25,7 +27,7 @@ El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento tod
 
 <h3 id="demostracion-de-funciones">Demostración de funciones:</h3>
 
-<img src=![funcionamiento](https://imgur.com/Mqcj027)>
+<img src="https://imgur.com/Mqcj027">
 
 <h3 id="acceso-al-proyecto">Acceso al proyecto:</h3>
 Este proyecto es de acceso público.
@@ -34,7 +36,7 @@ Este proyecto es de acceso público.
 En este proyecto se trabajó mayormente con el programa de Microsoft Visual Studio Core, en el cual se editó todo el código de HTML, CSS y JavaScript. Se utilizo GitBash para subir el proyecto a la plataforma de GitHub. En el código se utilizó tecnología SweetAlert 2 para crear unas alertas más atractivas. Se trabajo con Luri, la IA de Alura, ChatGpt y Leo IA del navegador Brave.
 
 <h3 id="personas-desarrolladoras">Personas desarrolladoras del proyecto:</h3>
-<img src="[yo](https://imgur.com/lfuLYFu)">
+<img src="https://imgur.com/lfuLYFu">
 Mi nombre es Jerónimo Herrera, soy de la ciudad de Catamarca-Argentina y desarrolle este encriptador de texto. Espero sea el primero de muchos proyectos.
 
 <h3 id="referencias">Referencias</h3>
