@@ -1,18 +1,18 @@
 <h1 align="center">Encriptador de texto.</h1>
- ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
  <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
-Índice:
-1-	Titulo
-2-	Índice
-3-	Descripción del proyecto
-4-	Estado del proyecto
-5-	Demostración de funciones
-6-	Acceso al proyecto
-7-	Tecnologías utilizadas
-8-	Personas desarrolladoras del proyecto
-Descripción del proyecto:
+##Índice:
+*	Titulo
+* insignia
+*	Índice
+*	Descripción del proyecto
+*	Estado del proyecto
+*	Demostración de funciones
+*	Acceso al proyecto
+*	Tecnologías utilizadas
+*	Personas desarrolladoras del proyecto
+<h2></h2>Descripción del proyecto:</h2>
 Este proyecto se realizo en el marco del curso ONE (Oracle Next Educacation) de las empresas Oracle y Alura Latam, en el cual fue solicitado crear un encriptador de textos, este resultado es la unión de todos los conceptos vistos en el curso de formación, incluye lógica de programación, HTML, CSS y JavaScript, usando programas como Visual Studio Core, Git Bash y la plataforma GitHub.
 
 
