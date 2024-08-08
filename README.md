@@ -27,7 +27,7 @@ El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento tod
 
 <h3 id="demostracion-de-funciones">Demostración de funciones:</h3>
 
-<img src="https://pasteboard.co/ljgFAoudrbcP.gif">
+https://pasteboard.co/ljgFAoudrbcP.gif
 
 <h3 id="acceso-al-proyecto">Acceso al proyecto:</h3>
 Este proyecto es de acceso público.
