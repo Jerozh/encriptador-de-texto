@@ -25,7 +25,7 @@ El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento tod
 
 <h3 id="demostracion-de-funciones">Demostración de funciones:</h3>
 
-<img src="https://github.com/user-attachments/assets/200b2d0">
+<img src="https://imgur.com/a/wmh9mB1">
 
 <h3 id="acceso-al-proyecto">Acceso al proyecto:</h3>
 Este proyecto es de acceso público.
@@ -34,7 +34,7 @@ Este proyecto es de acceso público.
 En este proyecto se trabajó mayormente con el programa de Microsoft Visual Studio Core, en el cual se editó todo el código de HTML, CSS y JavaScript. Se utilizo GitBash para subir el proyecto a la plataforma de GitHub. En el código se utilizó tecnología SweetAlert 2 para crear unas alertas más atractivas. Se trabajo con Luri, la IA de Alura, ChatGpt y Leo IA del navegador Brave.
 
 <h3 id="personas-desarrolladoras">Personas desarrolladoras del proyecto:</h3>
-<img src="https://github.com/user-attachments/assets/59ed2c67-2536-4f1f-9bfc-1dbf77311493">
+<img src="https://imgur.com/lfuLYFu">
 Mi nombre es Jerónimo Herrera, soy de la ciudad de Catamarca-Argentina y desarrolle este encriptador de texto. Espero sea el primero de muchos proyectos.
 
 <h3 id="referencias">Referencias</h3>
