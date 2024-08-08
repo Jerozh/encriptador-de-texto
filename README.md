@@ -13,7 +13,7 @@
 *	[Tecnologías utilizadas](#tecnologias-utilizadas)
 *	[Personas desarrolladoras del proyecto](#personas-desarrolladoras)
 * [conclusion](#conclusion)
-<h2></h2>Descripción del proyecto:</h2>
+<h2>Descripción del proyecto:</h2>
 Este proyecto se realizo en el marco del curso ONE (Oracle Next Educacation) de las empresas Oracle y Alura Latam, en el cual fue solicitado crear un encriptador de textos, este resultado es la unión de todos los conceptos vistos en el curso de formación, incluye lógica de programación, HTML, CSS y JavaScript, usando programas como Visual Studio Core, Git Bash y la plataforma GitHub.
 
 
