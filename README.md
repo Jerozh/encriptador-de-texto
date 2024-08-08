@@ -1,9 +1,10 @@
+# Encriptador de texto.
 <h1 align="center">Encriptador de texto.</h1>
  <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
 ##Índice:
-###	[Titulo](#titulo)
+*	[Titulo](#titulo)
 * [insignia](#insignia)
 *	[Índice](#indice)
 *	[Descripción del proyecto](#descripcion-del-proyecto)
@@ -14,31 +15,30 @@
 *	[Personas desarrolladoras del proyecto](#personas-desarrolladoras)
 * [Referencias](#referencias)
 * [conclusion](#conclusion)
-##
 
-<h3>Descripción del proyecto:</h3>
+<h3 id="descripcion-del-proyecto">Descripción del proyecto:</h3>
 Este proyecto se realizo en el marco del curso ONE (Oracle Next Educacation) de las empresas Oracle y Alura Latam, en el cual fue solicitado crear un encriptador de textos, este resultado es la unión de todos los conceptos vistos en el curso de formación, incluye lógica de programación, HTML, CSS y JavaScript, usando programas como Visual Studio Core, Git Bash y la plataforma GitHub.
 
-<h3>Estado del proyecto:</h3> 
+<h3 id="estado-del-proyecto">Estado del proyecto:</h3> 
 El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento todavía no es el mas amplio para dar por terminado este código tanto de HTML como de CSS o JavaScript, estoy seguro que debe tener muchas cosas por corregir o mejorar.
 
-<h3>Demostración de funciones:</h3>
+<h3 id="demostracion-de-funciones">Demostración de funciones:</h3>
 <img src="![Encriptador-de-texto](https://github.com/user-attachments/assets/f6ef80e3-8a45-4159-96bb-9954b83d8a2e)">
 
-<h3>Acceso al proyecto:</h3>
+<h3 id="acceso-al-proyecto">Acceso al proyecto:</h3>
 Este proyecto es de acceso público.
 
-<h3>Tecnologías utilizadas:</h3> 
+<h3 id="tecnologias-utilizadas">Tecnologías utilizadas:</h3> 
 En este proyecto se trabajó mayormente con el programa de Microsoft Visual Studio Core, en el cual se editó todo el código de HTML, CSS y JavaScript. Se utilizo GitBash para subir el proyecto a la plataforma de GitHub. En el código se utilizó tecnología SweetAlert 2 para crear unas alertas más atractivas. Se trabajo con Luri, la IA de Alura, ChatGpt y Leo IA del navegador Brave.
 
-<h3>Personas desarrolladoras del proyecto:</h3>
+<h3 id="personas-desarrolladoras">Personas desarrolladoras del proyecto:</h3>
 <img src="![yo]([https://github.com/user-attachments/assets/54c6cf00-9366-4ebc-aaae-64502ceb4f7c](https://drive.google.com/file/d/1zQoJJUVlBtXcFg70rPUgbP_5JnP06V_m/view?usp=drive_link))">
 Mi nombre es Jerónimo Herrera, soy de la ciudad de Catamarca-Argentina y desarrolle este encriptador de texto. Espero sea el primero de muchos proyectos.
 
-<h3>Referencias</h3>
+<h3 id="referencias">Referencias</h3>
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
 
-<h3>Conclusión:</h3>
+<h3 id="conclusion">Conclusión:</h3>
 Para cerrar, fue un desafío de verdad llegar a terminar este proyecto, en el cual tuve que investigar mucho sobre funciones de CSS, de JavaScript, ver y rever los cursos de la plataforma Alura, integrar conceptos con la ayuda de las IA de Alura, ChatGpt y el navegador Brave.
 Me gustó mucho realizar esta actividad, lograr mi encriptador de texto, tengo mucho por aprender en el mundo de la programación, pero este fue un gran primer paso.
 Espero sea de utilidad el código, el encriptador.
