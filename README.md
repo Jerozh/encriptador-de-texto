@@ -1,4 +1,4 @@
-Encriptador de texto.
+<h1 align="center">Encriptador de texto.</h1>
 Índice:
 1-	Titulo
 2-	Índice
