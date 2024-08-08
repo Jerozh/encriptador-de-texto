@@ -17,7 +17,7 @@ Este proyecto se realizo en el marco del curso ONE (Oracle Next Educacation) de 
 Estado del proyecto: 
 El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento todavía no es el mas amplio para dar por terminado este código tanto de HTML como de CSS o JavaScript, estoy seguro que debe tener muchas cosas por corregir o mejorar.
 Demostración de funciones:
-https://github.com/user-attachments/assets/e9aed57f-b825-4d2b-b261-3b0954d6f410
+![Encriptador-de-texto](https://github.com/user-attachments/assets/f6ef80e3-8a45-4159-96bb-9954b83d8a2e)
 Acceso al proyecto:
 Este proyecto es de acceso público.
 Tecnologías utilizadas: 
