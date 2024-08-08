@@ -5,8 +5,8 @@
  <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
-   
-##Índice:
+  <h3 id="indice"> 
+##Índice:</h3>
 *	[Titulo](#titulo)
 * [insignia](#insignia)
 *	[Índice](#indice)
@@ -36,7 +36,9 @@ Este proyecto es de acceso público.
 En este proyecto se trabajó mayormente con el programa de Microsoft Visual Studio Core, en el cual se editó todo el código de HTML, CSS y JavaScript. Se utilizo GitBash para subir el proyecto a la plataforma de GitHub. En el código se utilizó tecnología SweetAlert 2 para crear unas alertas más atractivas. Se trabajo con Luri, la IA de Alura, ChatGpt y Leo IA del navegador Brave.
 
 <h3 id="personas-desarrolladoras">Personas desarrolladoras del proyecto:</h3>
+
 ![desarrollador](https://pasteboard.co/5ztMLUxlRUgl.jpg)
+
 Mi nombre es Jerónimo Herrera, soy de la ciudad de Catamarca-Argentina y desarrolle este encriptador de texto. Espero sea el primero de muchos proyectos.
 
 <h3 id="referencias">Referencias</h3>
