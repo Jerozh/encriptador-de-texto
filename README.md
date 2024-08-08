@@ -1,12 +1,9 @@
-<body style="background-color: #f6f6f6;">
-<body style="color: #f5f5f5;">
- 
 <h1 id="titulo" align="center">Encriptador de texto.</h1>
  <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img id="insignia" src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
   
-<h3 id="indice">Índice:</h3>
+##Índice:
 *	[Titulo](#titulo)
 * [insignia](#insignia)
 *	[Índice](#indice)
@@ -27,7 +24,7 @@ El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento tod
 
 <h3 id="demostracion-de-funciones">Demostración de funciones:</h3>
 
-![demostracion](https://pasteboard.co/ljgFAoudrbcP.gif)
+![demostracion](https://gcdnb.pbrd.co/images/ljgFAoudrbcP.gif)
 
 <h3 id="acceso-al-proyecto">Acceso al proyecto:</h3>
 Este proyecto es de acceso público.
@@ -37,8 +34,8 @@ En este proyecto se trabajó mayormente con el programa de Microsoft Visual Stud
 
 <h3 id="personas-desarrolladoras">Personas desarrolladoras del proyecto:</h3>
 
-![desarrollador](https://pasteboard.co/5ztMLUxlRUgl.jpg)
-
+<!--![desarrollador](https://gcdnb.pbrd.co/images/5ztMLUxlRUgl.jpg)-->
+<img src="https://gcdnb.pbrd.co/images/5ztMLUxlRUgl.jpg" alt="yo" width="150"/>
 Mi nombre es Jerónimo Herrera, soy de la ciudad de Catamarca-Argentina y desarrolle este encriptador de texto. Espero sea el primero de muchos proyectos.
 
 <h3 id="referencias">Referencias</h3>
