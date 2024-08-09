@@ -25,7 +25,7 @@ El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento tod
 
 <h3 id="demostracion-de-funciones">Demostración de funciones:</h3>
 
-<img src="https://gcdnb.pbrd.co/images/ljgFAoudrbcP.gif" alt="demo"/>
+<img src="https://github.com/Jerozh/encriptador-de-texto/blob/main/assets/Encriptador-de-texto.gif?raw=true" alt="demo"/>
 
 <h3 id="acceso-al-proyecto">Acceso al proyecto:</h3>
 Este proyecto es de acceso público.
