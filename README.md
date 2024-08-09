@@ -3,7 +3,8 @@
    <img id="insignia" src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
   
-##Índice:
+<h3 id="indice">Indice</h3>
+
 *	[Titulo](#titulo)
 * [insignia](#insignia)
 *	[Índice](#indice)
@@ -24,7 +25,7 @@ El proyecto se encuentra en desarrollo, ya que considero que mi conocimiento tod
 
 <h3 id="demostracion-de-funciones">Demostración de funciones:</h3>
 
-<img src="https://gcdnb.pbrd.co/images/ljgFAoudrbcP.gif" alt="demo" />
+<img src="https://gcdnb.pbrd.co/images/ljgFAoudrbcP.gif" alt="demo"/>
 
 <h3 id="acceso-al-proyecto">Acceso al proyecto:</h3>
 Este proyecto es de acceso público.
