@@ -1,0 +1,343 @@
+/* importacion de la fuente inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+/*Selecciona el elemento raíz del documento, para crear colores que sean faciles de cambiar luego*/
+:root {
+    
+    --color-uno: #e25858;
+    --color-dos: #e9d6af;
+    --color-tres: #ffffdd;
+    --color-cuatro: #384252;
+    --color-cinco: #c0efd2;
+    --color-seis: #81657e;
+    
+    }
+
+/*Reset para los navegadores */  
+* {
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+      
+}  
+
+body{
+    background-color: var(--color-uno);
+    font-family: 'inter', sans-serif;
+    width: 100%;
+    padding: 1px;
+       
+}
+
+.main{
+    display:flex;
+}
+
+.header__img{
+    width: 4%;
+    height: 35px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+
+.main__sector__izquierdo{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+.main__caja__texto{
+    width: 50%;
+    text-align: left;
+    font-weight: 400;
+    font-size: 2rem;
+    color: var(--color-cuatro);
+    background-color: var(--color-uno);
+    border: none;
+    margin-top: 100px;
+    margin-left: 240px; 
+}
+
+.main__caja__texto:focus{
+    outline: none;
+}
+
+.main__indicaciones{
+    display: flex;
+    width: 70%;
+    height: 18px;
+    margin-top: 150px;
+    margin-left: 240px;
+    margin-bottom: 16px;
+    font-weight: 400;
+    font-size: 0.75rem;
+    color: var(--color-tres);
+    
+}
+
+.main__boton{
+    display: flex;
+    gap: 24px;
+    margin-left: 240px;
+    
+    
+}
+.main__desencriptar{
+    width: 70%;
+    height: 67px;
+    text-align: center;
+    border-radius: 24px;
+    font-weight: 400;
+    font-size: 1rem;
+    background-color: var(--color-cuatro);
+    color: var(--color-dos);
+    cursor: pointer;
+}
+
+.main__encriptar{
+    width: 70%;
+    height: 67px;
+    text-align: center;
+    border-radius: 24px;
+    font-weight: 400;
+    font-size: 1rem;
+    background-color: var(--color-seis);
+    color: var(--color-dos);
+    cursor: pointer;
+}
+
+
+
+.main__sector__derecho{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 650px;
+    width: 30%;
+    border-radius: 32px;
+    margin-left: 81px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    background-color: var(--color-cinco);
+    gap: 32px;
+    text-align: center;        
+}
+
+.caja__texto__derecho{
+    width: 90%;
+    height: 46%;
+    background-color: var(--color-cinco);
+    background-image: url("../assets/Muñeco.png")   ;
+    border: none;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-left: 32px;
+    margin-right: 32px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    }
+
+.caja__texto__derecho:focus{
+    outline: none;
+}
+
+.sector__derecho__parrafos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 95%;    
+    visibility: visible;
+}
+
+.sector__derecho__error{
+    width: 90%;
+    height: 50%;
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding: 0 32px 16px 32px;
+    visibility: visible;
+    }
+
+.sector__derecho__indicacion{
+    width: 90%;
+    height: 50%;
+    font-weight: 400;
+    font-size: 1rem;
+    visibility: visible;
+    margin-top: 16px;
+}
+
+.main__copiar{
+    width: 90%;
+    height: 67px;
+    text-align: center;
+    border-radius: 24px;
+    font-weight: 400;
+    font-size: 1rem;
+    background-color: var(--color-cuatro);
+    color: var(--color-dos);
+    margin-top: 38px;
+    margin-bottom: 30px;
+    visibility: hidden;
+    cursor: pointer;    
+}
+    
+.footer{
+    background-color: var(--color-cuatro);
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-align: center;
+    width:100%;
+}
+
+.footer__enlaces{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+    }
+
+/*cambiar dependiendo del tamaño de la pantalla*/  
+/*tamaño tablet*/
+@media (max-width: 768px){
+    .main{
+       flex-direction: column;
+    }
+    
+    .main__sector__izquierdo{
+       width: 100%;
+    }
+
+    .header__img{
+        width: 3%;
+        margin-left: 40px;
+        margin-top: 73,42px;
+    }
+    
+    .main__caja__texto{
+        width:90%;
+        height: 2%;
+        text-align: left;
+        margin-top: 116px;
+        margin-left: 40px; 
+    }
+    
+    .main__indicaciones{
+        width: 90%;
+        height: 18px;
+        margin-top: 30px;
+        margin-left: 10px;
+        margin-bottom: 16px;
+    }
+
+    .main__boton{
+            gap: 24px;
+            margin-right: 40px;
+            margin-left: 40px;
+            width: 90%;
+    }
+    
+    .main__sector__derecho{
+            height: 343px;
+            width: 92%;
+            border-radius: 32px;
+            margin-left: 40px;
+            margin-bottom: 40px;
+            margin-top: 64px;
+            margin-right: 40px ;
+            gap: 16px;
+            text-align: center;        
+    }
+
+    .caja__texto__derecho{
+            height: 70%;
+            background-image: none;
+    }
+
+    .sector__derecho__parrafos{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 95%;    
+    }
+        
+    .sector__derecho__error{
+          padding: 32px 32px 16px 32px;
+    }
+          
+    .main__copiar{
+          width: 90%;
+          height: 70%;
+    }
+      
+    }
+    
+    /* tamaño celular*/
+@media (max-width: 398px){
+    .main{
+        flex-direction: column;
+    }
+      
+    .main__sector__izquierdo{
+        width: 100%;
+    }
+    
+    .header__img{
+        width: 10%;
+        margin-top: 22px;
+    }
+    
+    .main__caja__texto{
+        width: 90%;
+        margin-top: 56px;
+        margin-left: 16px; 
+        margin-right: 16px;
+        height: 190px;
+    }
+    
+    .main__indicaciones{
+        width: 90%;
+        height: 18px;
+        margin-top: 5px;
+        margin-left: 16px;
+        margin-bottom: 16px;
+        }
+
+    .main__boton{
+            flex-direction: column-reverse;
+            gap: 24px;
+            margin-left: 16px;
+            width: 100%;
+    }
+
+    .main__desencriptar{
+        width: 90%;        
+    }
+    
+    .main__encriptar{
+        width: 90%;
+    }
+    
+    .main__sector__derecho{
+        height: 300px;
+        width: 90%;
+        margin-left: 8px;
+        margin-bottom: 40px;
+        margin-top: 64px;
+        margin-right: 16px;
+        margin-left: 16px;
+    }
+
+    .caja__texto__derecho{
+            height: 50%;
+            background-image:none;
+    }
+    
+    .main__copiar{
+            width: 90%;
+            height: 20%;
+    }    
+} 
+

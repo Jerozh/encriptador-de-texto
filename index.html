@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale= 1.0">
+    <title>Encriptador de texto</title>
+    <!--script y hoja de cascada para sweetalert2 -->
+    <script src="./adicional/sweetalert2.min.js"></script>
+    <link rel="stylesheet" href="./style/sweetalert2.css">
+    <!--hoja de cascada de estilos -->
+    <link rel="stylesheet" href="./style/style.css">
+</head>
+<body>
+    <header>
+        <img class="header__img" src="./assets/Vector.png" alt="icono de logo de alura">
+    </header>
+
+    <main class="main">
+        <section class="main__sector__izquierdo"> 
+            
+            <textarea class="main__caja__texto" name="caja" id="ingresee" rows="8" placeholder="Ingrese el texto aquí"></textarea>
+            <div class="main__indicaciones"> 
+           <img src="./assets/exclamacion.png" alt="signo de exclamacion">
+           <p class="main__parrafo">Solo letras minúsculas y sin acentos</p>
+        </div>
+        <div class="main__boton">
+            <button onclick="botonDesencriptar()"; class="main__desencriptar" id="desencriptar">Desencriptar</button>  
+            <button onclick="botonEncriptar()"; class="main__encriptar" id="encriptar">Encriptar</button>
+        </section>
+        <section class="main__sector__derecho">
+            <textarea class="caja__texto__derecho" name="caja2" id="caja-texto2" readonly></textarea>
+        <div class="sector__derecho__parrafos">
+            <p class="sector__derecho__error">Ningun mensaje fue encontrado</p>
+            <p class="sector__derecho__indicacion">Ingresa el texto que desees encriptar o desencriptar.</p>
+        </div>
+            <button onclick="botonCopiar()"; class="main__copiar" id="copiar">Copiar</button>
+        </section>
+        
+    </main>
+    
+    <footer class="footer">
+    <p>Challenger practico realizado por: Jeronimo Herrera</p>
+    <p>Año 2024</p>
+    <nav class="footer__enlaces">
+        <a href="https://www.linkedin.com/in/jeroh90/"><img class="enlaces__imagen" src="./assets/linkedin.png" alt="logo linkedin"></a>
+        <a href="https://github.com/Jerozh"><img class="enlaces__imagen" src="./assets/github.png" alt="logo github"></a>
+    </nav>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
