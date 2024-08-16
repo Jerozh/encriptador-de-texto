@@ -39,9 +39,9 @@ En este proyecto se trabajó mayormente con el programa de Microsoft Visual Stud
 Mi nombre es Jerónimo Herrera, soy de la ciudad de Catamarca-Argentina y desarrolle este encriptador de texto. Espero sea el primero de muchos proyectos.
 
 <h3 id="referencias">Referencias</h3>
-https://www.w3schools.com/
-https://developer.mozilla.org/es/
-https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+https://www.w3schools.com/  
+https://developer.mozilla.org/es/  
+https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github  
 
 <h3 id="conclusion">Conclusión:</h3>
 Para cerrar, fue un desafío de verdad llegar a terminar este proyecto, en el cual tuve que investigar mucho sobre funciones de CSS, de JavaScript, ver y rever los cursos de la plataforma Alura, integrar conceptos con la ayuda de las IA de Alura, ChatGpt y el navegador Brave.
