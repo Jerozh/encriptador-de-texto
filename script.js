@@ -32,6 +32,8 @@ function mayusYAcentos(text) {
   return /[A-Z]|[áéíóúÁÉÍÓÚÑ]/.test(text);
 }
 
+/*funcion del boton encriptar en el que analiza si la caja esta vacia, si tiene mayusculas o acentos y da las diferentes alertas
+para cada caso ademas limpia la caja de texto izquierda*/
 function botonEncriptar(){
 if(cajaIzquierda.value == ''){
   resetCajaDerecha();  
@@ -63,6 +65,9 @@ else{
   resetCajaDerecha();
  }
 }
+
+/*funcion del boton desencriptar en el que analiza si la caja esta vacia, si tiene mayusculas o acentos y da las diferentes alertas
+para cada caso, ademas limpia la caja de texto izquierda*/
 function botonDesencriptar(){
 if(cajaIzquierda.value == ''){
   resetCajaDerecha();
@@ -96,6 +101,7 @@ else{
  }
 }
 
+/*funcion del boton copiar, que tambien resetea la caja de texto derecha*/
 function botonCopiar(){
   let copiaTexto = cajaDerecha.value;
   try {
