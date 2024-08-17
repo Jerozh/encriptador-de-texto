@@ -14,11 +14,11 @@ function quitarVariosYBotonCopiar(){
   cajaDerecha.style.display = 'inline';
 }
 //funcion que limpia la caja de texto derecha, y la vuelve a cero
-function resetCajaDerecha(){
-  cajaDerecha.value = '';
+function resetCajaDerecha() {
+  cajaDerecha.value = ''; // 
   cajaDerecha.style.backgroundImage = 'url("https://github.com/Jerozh/encriptador-de-texto/blob/main/assets/Mu%C3%B1eco.png")';
-  cajaDerecha.style.position = 'center';
-  cajaDerecha.style.repeat = 'no-repeat';
+  cajaDerecha.style.backgroundRepeat = 'no-repeat'; 
+  cajaDerecha.style.backgroundPosition = 'center';
   infoDerecha.style.visibility = 'visible';
   infoDerecha2.style.visibility = 'visible';
   desbloquearBoton.style.visibility = 'hidden';
@@ -42,7 +42,8 @@ if(cajaIzquierda.value == ''){
     text: 'No hay texto para encriptar',
     icon: 'error',
     confirmButtonText: 'Aceptar'})
-    }
+resetCajaDerecha();    
+}
 else if (mayusYAcentos(cajaIzquierda.value) == false){
 var encriptarr = cajaIzquierda.value.replace(/e/g, 'enter').replace(/a/g, 'xjz').replace(/i/g, 'imes').replace(/o/g, 'ober').replace(/u/g, 'ufat');
 var encriptarr2 = encriptarr.replace(/xjz/g, 'ai');
